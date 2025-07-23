@@ -49,24 +49,7 @@ const amin = {
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminhaghiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhaghiii&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminhaghiii&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 What I'm Up To
 
