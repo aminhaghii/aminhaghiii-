@@ -80,7 +80,7 @@ const amin = {
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-aminvibe.dev-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aminvibe.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminhaghiii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aminhaghiii](https://www.linkedin.com/in/amin-haghi-836089333/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminhaghiii)
 
 ### 💌 Open for collaborations, opportunities, and interesting conversations!
